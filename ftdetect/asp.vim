@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.asp set filetype=asp
+autocmd BufNewFile,BufRead *.lp set filetype=asp
